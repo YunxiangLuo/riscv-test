@@ -35,7 +35,13 @@
 
 ### 自动化测试
 
-1. 工具开发，改进mugen中DNF_INSTALL错误信息打印，加入在log中打印缺失软件包信息的功能 [commit](https://github.com/brsf11/mugen-riscv/commit/9520e6381a552e6753840a589d98f1740f9afce7)  
+1. Mugen工具二次开发
+
+> - 改进mugen中DNF_INSTALL错误信息打印，加入在log中打印缺失软件包信息的功能 [commit](https://github.com/brsf11/mugen-riscv/commit/9520e6381a552e6753840a589d98f1740f9afce7)  
+
+> - 验证mugen上游更新的可靠性 [更新前log](https://github.com/KotorinMinami/plct-working/blob/main/WorkReport/logs/2022-10-12-17:10:23.log) [更新后log](https://github.com/KotorinMinami/plct-working/blob/main/WorkReport/logs/2022-10-12-17:10:23.log)
+
+> - 添加mugen-riscv中os-basic与rsyslog的测试例。[commit_os](https://github.com/brsf11/mugen-riscv/pull/7/files) , [commit_rsys](https://github.com/brsf11/mugen-riscv/pull/8/files).
 
 2. Anolis操作系统上的自动化测试
 
@@ -47,3 +53,8 @@
 >  2.2 在Anolis上运行anolis-pkg-tests测试框架  
 
 >  - 成功运行avocado框架，完整运行了一次system_base/util_linux测试套，共计233个测试例，[结果](https://github.com/brsf11/Tarsier-Internship/tree/main/Anolis-pkg-tests-Porting/anolis8.6X86test)已整理上传，并在分析中 
+>
+
+3. Debian衍生谱系自动化测试框架调研和原型搭建
+
+> - 对Debian系的自动化测试框架进行调研,使用autopkgtest进行debian的systemd软件包的测试。 [report](https://github.com/KotorinMinami/plct-working/blob/main/WorkReport/reports/report.md) , [log & summary](https://github.com/KotorinMinami/plct-working/blob/main/WorkReport/debian_logs%26sum)
