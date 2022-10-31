@@ -4,7 +4,7 @@
 
 1. [openEuler RISC-V的测试与质量保证](https://github.com/YunxiangLuo/riscv-test/blob/main/202210/1.%E6%B5%8B%E8%AF%95%E8%A7%84%E5%88%92/openEuler%20RISC-V%E7%9A%84%E6%B5%8B%E8%AF%95%E4%B8%8E%E8%B4%A8%E9%87%8F%E4%BF%9D%E8%AF%81.pptx)
 2. [RISC-V oE 自动化测试](https://github.com/YunxiangLuo/riscv-test/blob/main/202210/1.%E6%B5%8B%E8%AF%95%E8%A7%84%E5%88%92/RISC-V%20oE%20%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95.pptx)
-3. [测试小队分组计划]
+3. [测试小队分组计划](https://github.com/YunxiangLuo/riscv-test/blob/main/202210/1.%E6%B5%8B%E8%AF%95%E8%A7%84%E5%88%92/%E6%B5%8B%E8%AF%95%E5%B0%8F%E9%98%9F%E5%88%86%E7%BB%84%E8%AE%A1%E5%88%92%E4%B9%A6.md)
 
 ### 操作系统发布测试
 
