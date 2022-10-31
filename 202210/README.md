@@ -31,8 +31,8 @@
 
 1. 历史测试用例的汇总
 2. 测试用例库工具原型搭建和调研
-3. 包（应用）分类3000+
+3. [包（应用）分类3000+](https://github.com/YunxiangLuo/riscv-test/blob/main/202210/5.%20%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E5%BA%93%E5%BB%BA%E8%AE%BE/packagelist/packages_202210302157.csv)
 
 ### 自动化测试
 
-自动化测试-debian系测试工具调研和原型 龙西工具和mugen工具原型，测试和比较
+自动化测试-debian系测试工具调研和原型 龙蜥工具和mugen工具原型，测试和比较
