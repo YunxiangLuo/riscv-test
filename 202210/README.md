@@ -32,6 +32,11 @@
 1. 历史测试用例的汇总
 2. 测试用例库工具原型搭建和调研
 3. [包（应用）分类3000+](https://github.com/YunxiangLuo/riscv-test/blob/main/202210/5.%20%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E5%BA%93%E5%BB%BA%E8%AE%BE/packagelist/packages_202210302157.csv)
+4. Deepin测试环境文档编写
+
+> - [Deepin RISC-V 安装手册](https://github.com/xforcevesa/Work-PLCT/blob/master/Deepin/Installation_Guide.md)
+
+> - [Deepin-installation Guide](https://github.com/GICEGreenIce/deepin-installation)
 
 ### 自动化测试
 
