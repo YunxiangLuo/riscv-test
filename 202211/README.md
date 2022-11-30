@@ -6,6 +6,19 @@
 
 - [测试用例库规范](https://github.com/YunxiangLuo/riscv-test/blob/main/202211/%E8%A7%84%E5%88%92%E5%92%8C%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E5%BA%93%E8%A7%84%E8%8C%83.md)
 
+- 组织整理原有测试用例库并设计新的测试用例标准 RISCV-testcase
+
+    - 审查已经整理的原有的测试用例
+    
+    - 设计新的标准排版标准
+    
+    - 设计机器人和模板以标准化过程
+    
+    - 设计 GitHub CI 帮助自动审查
+    
+      [产出1](https://github.com/ArielHeleneto/RISCV-testcase/tree/master/.github)
+      [产出2](https://github.com/ArielHeleneto/RISCV-testcase/issues)
+
 ## 1.2 openEuler RISC-V在众测平台的实践
 
 - [openEuler RISC-V在众测平台的实践](https://github.com/YunxiangLuo/riscv-test/blob/main/202211/%E8%A7%84%E5%88%92%E5%92%8C%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E5%BA%93%E8%A7%84%E8%8C%83.md)
