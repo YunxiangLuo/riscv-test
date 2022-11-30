@@ -112,8 +112,6 @@
 - [完成Thunderbird测试用例](https://github.com/YunxiangLuo/riscv-test/tree/main/202211/%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E5%BA%93%E5%BB%BA%E8%AE%BE/Thunderbird/testcase)
 - [完成VLC测试用例](https://github.com/YunxiangLuo/riscv-test/tree/main/202211/%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E5%BA%93%E5%BB%BA%E8%AE%BE/VLC/testcase)
 - [完成GIMP测试用例](https://github.com/YunxiangLuo/riscv-test/tree/main/202211/%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E5%BA%93%E5%BB%BA%E8%AE%BE/GIMP/testcase)
-- [完成Thunderbird 缺陷]()
-- [完成VLC 缺陷]()
 
 ## 3.3 测试用例库软件调研（调研比较后，决定使用git形式）
 
@@ -153,4 +151,9 @@
 
 ## 6.3 关闭验证通过的issue
 - [审核自动化和手动回归测试结果，关闭验证通过的issue](https://gitee.com/openeuler/RISC-V/issues)
+
+## 6.4 历史缺陷汇总
+
+- [完成Thunderbird 缺陷]()
+- [完成VLC 缺陷]()
 
