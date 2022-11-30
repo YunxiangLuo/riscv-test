@@ -4,11 +4,11 @@
 
 ## 1.1 测试用例库规范
 
-- [测试用例库规范](https://github.com/YunxiangLuo/riscv-test/blob/main/202211/%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E5%BA%93%E5%BB%BA%E8%AE%BE/README.md)
+- [测试用例库规范](https://github.com/YunxiangLuo/riscv-test/blob/main/202211/%E8%A7%84%E5%88%92%E5%92%8C%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E5%BA%93%E8%A7%84%E8%8C%83.md)
 
 ## 1.2 openEuler RISC-V在众测平台的实践
 
-- [openEuler RISC-V在众测平台的实践]()
+- [openEuler RISC-V在众测平台的实践](https://github.com/YunxiangLuo/riscv-test/blob/main/202211/%E8%A7%84%E5%88%92%E5%92%8C%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E5%BA%93%E8%A7%84%E8%8C%83.md)
 
 ## 1.3 RISC-V龙蜥镜像mugen测试  
 
@@ -113,13 +113,13 @@
 
 # 4. 众测
 
-1. [Chromium众测文档](https://github.com/YunxiangLuo/testing/tree/main/Chromium)
-2. [Libreoffice众测报告验证和审核]()
-3. [众测审核文档汇总]()
+1. [Chromium众测文档](https://github.com/YunxiangLuo/riscv-test/tree/main/202211/%E4%BC%97%E6%B5%8B/%E4%BC%97%E6%B5%8B%E9%A2%98%E7%9B%AE/Chromium)
+2. [Libreoffice众测报告验证和审核](https://github.com/YunxiangLuo/riscv-test/tree/main/202211/%E4%BC%97%E6%B5%8B/%E4%BC%97%E6%B5%8B%E5%AE%A1%E6%A0%B8/11%E6%9C%88%E5%AE%A1%E6%A0%B8%E8%AE%B0%E5%BD%95)
+3. [众测审核文档汇总](https://github.com/YunxiangLuo/riscv-test/tree/main/202211/%E4%BC%97%E6%B5%8B/%E4%BC%97%E6%B5%8B%E5%AE%A1%E6%A0%B8)
 4. [众测报告汇总](https://gitee.com/yunxiangluo/testsuites)
 
 # 5. 内部测试
-1. [Mysql 测试]()
+1. [Mysql 测试](https://github.com/YunxiangLuo/riscv-test/blob/main/202211/%E5%86%85%E9%83%A8%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8BMySQL.xlsx)
 
 # 6.缺陷跟踪
 
