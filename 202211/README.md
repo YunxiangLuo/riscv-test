@@ -4,7 +4,7 @@
 
 ## 1.1 测试用例库规范
 
-- [测试用例库规范](https://github.com/FIFCC/RISCV-testcase/blob/master/README.md)
+- [测试用例库规范](https://github.com/YunxiangLuo/riscv-test/blob/main/202211/%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E5%BA%93%E5%BB%BA%E8%AE%BE/README.md)
 
 ## 1.2 openEuler RISC-V在众测平台的实践
 
@@ -87,18 +87,18 @@
 
 ## 3.1 设计测试用例库模板
 
-- [测试用例库模板]()
+- [测试用例库模板](https://github.com/YunxiangLuo/riscv-test/blob/main/202211/%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E5%BA%93%E5%BB%BA%E8%AE%BE/Template/testcase/name.md)
 
 ## 3.2 测试用例库
 
-[总入口]()
+[总入口](https://github.com/YunxiangLuo/riscv-test/tree/main/202211/%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E5%BA%93%E5%BB%BA%E8%AE%BE)
 
-- [完成Xfce测试用例]()
-- [完成Firefox测试用例]()
-- [完成Libreoffice测试用例]()
-- [完成Thunderbird测试用例]()
-- [完成VLC测试用例]()
-- [完成GIMP测试用例]()
+- [完成Xfce部分测试用例](https://github.com/YunxiangLuo/riscv-test/tree/main/202211/%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E5%BA%93%E5%BB%BA%E8%AE%BE/Xfce/Desktop%20Manager/testcase)
+- [完成Firefox测试用例](https://github.com/YunxiangLuo/riscv-test/tree/main/202211/%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E5%BA%93%E5%BB%BA%E8%AE%BE/Firefox/testcase)
+- [完成Libreoffice部分测试用例](https://github.com/YunxiangLuo/riscv-test/tree/main/202211/%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E5%BA%93%E5%BB%BA%E8%AE%BE/Libreoffice/testcase)
+- [完成Thunderbird测试用例](https://github.com/YunxiangLuo/riscv-test/tree/main/202211/%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E5%BA%93%E5%BB%BA%E8%AE%BE/Thunderbird/testcase)
+- [完成VLC测试用例](https://github.com/YunxiangLuo/riscv-test/tree/main/202211/%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E5%BA%93%E5%BB%BA%E8%AE%BE/VLC/testcase)
+- [完成GIMP测试用例](https://github.com/YunxiangLuo/riscv-test/tree/main/202211/%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E5%BA%93%E5%BB%BA%E8%AE%BE/GIMP/testcase)
 - [完成Thunderbird 缺陷]()
 - [完成VLC 缺陷]()
 
