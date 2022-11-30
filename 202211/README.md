@@ -4,7 +4,7 @@
 
 ## 1.1 测试用例库规范
 
-- [测试用例库规范（程龙灿）](https://github.com/FIFCC/RISCV-testcase/blob/master/README.md)
+- [测试用例库规范](https://github.com/FIFCC/RISCV-testcase/blob/master/README.md)
 
 ## 1.2 openEuler RISC-V在众测平台的实践
 
@@ -37,7 +37,12 @@
 ## 1.6 RISCV openEuler 22.03 V1自动化回归测试  
 
 - 经过一次os-basic-riscv完整测试和对之前出错的新产生问题的用例单独测试，排除了所有用例的问题，[部分测试结果](https://github.com/renjiedai/PLCT_TEST/tree/master/WEEK5_20221114-20221120/issue%E7%9A%84%E5%9B%9E%E5%BD%92%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C)
+
 - [issue评论](https://gitee.com/openeuler/RISC-V/issues/I5UQ31?from=project-issue#note_14440971_link)  
+
+## 1.7 包分类
+
+- [openEuler 22.03 RISC-V（应用）包分类](https://github.com/FIFCC/testing/tree/main/package)
 
 # 2. 自动化测试工具开发
 
