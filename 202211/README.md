@@ -43,8 +43,8 @@
 
 ## 1.5 eulaceura操作系统自动化测试
 
-- [eulaceura自动化测试结果（206个测试套）](https://github.com/renjiedai/PLCT_TEST/tree/master/WEEK4_20221107-20221113/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C%E6%8A%A5%E5%91%8A)
-- [eulaceura测试报告](https://github.com/renjiedai/PLCT_TEST/blob/master/WEEK4_20221107-20221113/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C%E6%8A%A5%E5%91%8A/README.md)
+- [eulaceura自动化测试结果（206个测试套）](https://github.com/YunxiangLuo/riscv-test/tree/main/202211/%E8%A7%84%E5%88%92%E5%92%8C%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95/eulaceura/logs)
+- [eulaceura测试报告](https://github.com/YunxiangLuo/riscv-test/blob/main/202211/%E8%A7%84%E5%88%92%E5%92%8C%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95/eulaceura/README.md)
 
 ## 1.6 RISCV openEuler 22.03 V1自动化回归测试  
 
