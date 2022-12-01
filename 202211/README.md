@@ -154,6 +154,6 @@
 
 ## 6.4 历史缺陷汇总
 
-- [完成Thunderbird 缺陷]()
-- [完成VLC 缺陷]()
+- [完成Thunderbird 缺陷](https://github.com/YunxiangLuo/riscv-test/blob/main/202211/%E7%BC%BA%E9%99%B7%E8%B7%9F%E8%B8%AA/%E7%BC%BA%E9%99%B7%E5%BA%93/Thunderbird/%E7%BC%BA%E9%99%B7%E6%8A%A5%E5%91%8A.md)
+- [完成VLC 缺陷](https://github.com/YunxiangLuo/riscv-test/blob/main/202211/%E7%BC%BA%E9%99%B7%E8%B7%9F%E8%B8%AA/%E7%BC%BA%E9%99%B7%E5%BA%93/VLC/%E7%BC%BA%E9%99%B7%E6%8A%A5%E5%91%8A.md)
 
