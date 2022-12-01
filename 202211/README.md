@@ -40,6 +40,7 @@
 - 测试结果：46个用例通过，10个用例失败  
 - 10个测试失败用例的日志文件在此目录的logs/os-basic中  
 - 通过的46个用例列表为passed_tests  
+[测试结果](https://github.com/YunxiangLuo/riscv-test/blob/main/202211/%E8%A7%84%E5%88%92%E5%92%8C%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95/RISCVAnolis8.6-22-11-24)
 
 ## 1.5 eulaceura操作系统自动化测试
 
