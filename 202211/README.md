@@ -147,7 +147,7 @@
 
 ## 6.2 60个缺陷issue手动回归测试：
 
-- [测试结果](https://github.com/vegetable-yx/PLCT_test0/tree/main/issues)
+- [测试结果](https://github.com/YunxiangLuo/riscv-test/tree/main/202211/%E7%BC%BA%E9%99%B7%E8%B7%9F%E8%B8%AA/issues)
 
 ## 6.3 关闭验证通过的issue
 - [审核自动化和手动回归测试结果，关闭验证通过的issue](https://gitee.com/openeuler/RISC-V/issues)
