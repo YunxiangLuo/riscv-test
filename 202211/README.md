@@ -32,8 +32,7 @@
     - 软件缺失（包括因为paramiko依赖没有解决无法安装和没有预装）48个  
     - 可能为系统bug，需要进一步分析 12个  
     - 其他，和openEuler行为不一致 1个  
-- [测试结果](https://github.com/brsf11/Tarsier-Internship/tree/main/Testing/RISCVAnolis8.6) 
-
+- [测试结果](https://github.com/YunxiangLuo/riscv-test/blob/main/202211/%E8%A7%84%E5%88%92%E5%92%8C%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95/RISCVAnolis8.6)
 ## 1.4 RISC-V龙蜥测试软件源mugen测试  
 
 - 本次测试使用镜像[来源](https://mirrors.openanolis.cn/alt/risc-v/images/)，软件源：[an8](http://build.openanolis.cn/kojifiles/repos/anolis-riscv64-repo-external/an8/riscv64/) [gcc](http://build.openanolis.cn/kojifiles/repos/anolis23-riscv64-repo-external/gcc/) [an8extra](http://build.openanolis.cn/kojifiles/repos/anolis-riscv64-repo-external/an8extra/riscv64/) [anolis-riscv](http://build.openanolis.cn/kojifiles/rsync/alt/risc-v/riscv64/)  
