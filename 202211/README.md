@@ -131,7 +131,7 @@
 
 # 5. 内部测试
 1. [Mysql 测试](https://github.com/YunxiangLuo/riscv-test/blob/main/202211/%E5%86%85%E9%83%A8%E6%B5%8B%E8%AF%95/%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8BMySQL.xlsx)
-2. [测试龙蜥QEMU在Ubuntu上的安装和网络，编写安装和设置文档]()
+2. [测试龙蜥QEMU在Ubuntu上的安装和网络，编写安装和设置文档](https://github.com/YunxiangLuo/riscv-test/tree/main/202211/%E5%86%85%E9%83%A8%E6%B5%8B%E8%AF%95/%E9%BE%99%E8%9C%A5QEMU%E5%9C%A8Ubuntu%E4%B8%8B%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E8%AE%BE%E7%BD%AE)
 
 # 6.缺陷跟踪
 
