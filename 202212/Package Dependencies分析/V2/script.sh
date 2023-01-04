@@ -1,0 +1,1 @@
+eval "$(cat main_script.sh | tr '\r' '\n')"

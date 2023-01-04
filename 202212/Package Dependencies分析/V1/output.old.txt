@@ -1,0 +1,440 @@
+Error: 
+ Problem 1: conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+ Problem 2: conflicting requests
+  - nothing provides atune-collector needed by atune-1.0.0-4.oe2203.riscv64
+ Problem 3: conflicting requests
+  - nothing provides kmod-kvdo >= 6.2 needed by vdo-6.2.0.298-14.oe2203.riscv64
+ Problem 4: conflicting requests
+  - nothing provides mvn(org.tmatesoft.sqljet:sqljet) needed by svnkit-1:1.8.12-1.oe2203.noarch
+ Problem 5: conflicting requests
+  - nothing provides biber needed by texlive-biblatex-apa-8:svn47268-24.oe2203.noarch
+ Problem 6: conflicting requests
+  - nothing provides perl(HTML::FormatText) needed by texlive-ctanupload-7:20180414-35.oe2203.noarch
+  - nothing provides perl(HTML::TreeBuilder) needed by texlive-ctanupload-7:20180414-35.oe2203.noarch
+  - nothing provides perl(WWW::Mechanize) needed by texlive-ctanupload-7:20180414-35.oe2203.noarch
+ Problem 7: conflicting requests
+  - nothing provides perl(Spreadsheet::ParseExcel) needed by texlive-exceltex-7:20180414-35.oe2203.noarch
+ Problem 8: conflicting requests
+  - nothing provides R-knitr needed by texlive-includernw-8:svn47557-24.oe2203.noarch
+ Problem 9: conflicting requests
+  - nothing provides perl(Log::Dispatch::File) needed by texlive-latexindent-7:20180414-35.oe2203.noarch
+  - nothing provides perl(Log::Log4perl) needed by texlive-latexindent-7:20180414-35.oe2203.noarch
+  - nothing provides perl(Log::Log4perl::Appender::Screen) needed by texlive-latexindent-7:20180414-35.oe2203.noarch
+ Problem 10: conflicting requests
+  - nothing provides perl(DBD::MariaDB) needed by mariadb-server-utils-4:10.5.15-2.oe2203.riscv64
+ Problem 11: conflicting requests
+  - nothing provides criu needed by nvwa-0.2-1.oe2203.riscv64
+ Problem 12: conflicting requests
+  - nothing provides mvn(org.glassfish.jersey.connectors:jersey-apache-connector) needed by docker-client-java-8.11.7-2.oe2203.noarch
+  - nothing provides mvn(org.glassfish.jersey.core:jersey-client) needed by docker-client-java-8.11.7-2.oe2203.noarch
+  - nothing provides mvn(org.glassfish.jersey.media:jersey-media-json-jackson) needed by docker-client-java-8.11.7-2.oe2203.noarch
+ Problem 13: conflicting requests
+  - nothing provides perl(Net::IP) needed by freeradius-utils-3.0.25-1.oe2203.riscv64
+ Problem 14: conflicting requests
+  - nothing provides mvn(org.apache.httpcomponents:httpasyncclient) needed by metrics-httpasyncclient-3.1.2-1.oe2203.noarch
+ Problem 15: conflicting requests
+  - nothing provides mvn(org.glassfish.jersey.core:jersey-server) needed by metrics-jersey2-3.1.2-1.oe2203.noarch
+ Problem 16: conflicting requests
+  - nothing provides mvn(org.mybatis:mybatis) needed by mybatis-generator-systests-mybatis3-1.3.2-1.oe2203.noarch
+ Problem 17: conflicting requests
+  - nothing provides python3-cairocffi needed by oscilloscope-0.14.1-1.oe2203.noarch
+ Problem 18: conflicting requests
+  - nothing provides python3.9dist(tensorflow) >= 2.1 needed by python3-keras-rl2-1.0.4-1.oe2203.noarch
+ Problem 19: conflicting requests
+  - nothing provides python3.9dist(websockets) needed by python3-nni-1.8-2.oe2203.riscv64
+  - nothing provides python3.9dist(hyperopt) = 0.1.2 needed by python3-nni-1.8-2.oe2203.riscv64
+ Problem 20: conflicting requests
+  - nothing provides python3.9dist(xmlschema) needed by python3-pysaml2-6.5.1-1.oe2203.noarch
+ Problem 21: conflicting requests
+  - nothing provides python3.9dist(nose) >= 1.3 needed by python3-spec-1.4.1-1.oe2203.noarch
+  - nothing provides python3.9dist(nose) < 2 needed by python3-spec-1.4.1-1.oe2203.noarch
+ Problem 22: conflicting requests
+  - nothing provides oldstandard-sfd-fonts needed by texlive-oldstandard-8:svn41735-24.oe2203.noarch
+ Problem 23: conflicting requests
+  - nothing provides python3-routes needed by ceph-mgr-dashboard-2:16.2.7-4.oe2203.noarch
+ Problem 24: conflicting requests
+  - nothing provides python3-kubernetes needed by ceph-mgr-k8sevents-2:16.2.7-4.oe2203.noarch
+ Problem 25: conflicting requests
+  - nothing provides python3-kubernetes needed by ceph-mgr-rook-2:16.2.7-4.oe2203.noarch
+ Problem 26: conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+ Problem 27: conflicting requests
+  - nothing provides libwebsockets.so.16()(64bit) needed by mosquitto-1.6.15-6.oe2203.riscv64
+ Problem 28: conflicting requests
+  - nothing provides avro needed by accumulo-2.0.1-3.oe2203.riscv64
+ Problem 29: conflicting requests
+  - nothing provides p7zip needed by deepin-compressor-5.8.0.14-2.oe2203.riscv64
+ Problem 30: conflicting requests
+  - nothing provides devhelp-libs(riscv-64) >= 3.25.1 needed by gnome-builder-3.40.0-1.oe2203.riscv64
+ Problem 31: conflicting requests
+  - nothing provides byzanz needed by deepin-screen-recorder-5.8.0.52-3.oe2203.riscv64
+ Problem 32: conflicting requests
+  - nothing provides ovirt-engine-setup-plugin-ovirt-engine-common >= 4.4.0 needed by ovirt-engine-dwh-grafana-integration-setup-4.4.4.1-2.oe2203.noarch
+ Problem 33: conflicting requests
+  - nothing provides ovirt-engine-setup-plugin-ovirt-engine-common >= 4.4.0 needed by ovirt-engine-dwh-setup-4.4.4.1-2.oe2203.noarch
+ Problem 34: conflicting requests
+  - nothing provides ukui-settings-daemon needed by ukui-2.0.2-14.oe2203.noarch
+ Problem 35: conflicting requests
+  - nothing provides autofdo needed by A-FOT-v1.0-0.oe2203.riscv64
+  - nothing provides llvm-bolt needed by A-FOT-v1.0-0.oe2203.riscv64
+ Problem 36: conflicting requests
+  - nothing provides python3-xmltodict needed by aops-utils-v1.1.1-6.oe2203.riscv64
+  - nothing provides python3.9dist(xmltodict) needed by aops-utils-v1.1.1-6.oe2203.riscv64
+ Problem 37: conflicting requests
+  - nothing provides p7zip needed by kiran-desktop-2.2-10.oe2203.noarch
+ Problem 38: conflicting requests
+  - nothing provides ukui-settings-daemon needed by ukui-desktop-environment-core-2.0.2-14.oe2203.noarch
+ Problem 39: conflicting requests
+  - nothing provides libcppunit-1.14.so.0()(64bit) needed by dirac-1.0.2-33.4.oe2.riscv64
+ Problem 40: conflicting requests
+  - nothing provides group(trusted) needed by permissions-config-20220419-33.1.oe2.riscv64
+ Problem 41: conflicting requests
+  - nothing provides python3-remoto needed by ceph-mgr-cephadm-2:16.2.7-4.oe2203.noarch
+ Problem 42: conflicting requests
+  - nothing provides hunspell-af needed by libreoffice-langpack-af-1:7.3.5.2-2.oe2203.riscv64
+  - nothing provides hyphen-af needed by libreoffice-langpack-af-1:7.3.5.2-2.oe2203.riscv64
+ Problem 43: conflicting requests
+  - nothing provides mythes-bg needed by libreoffice-langpack-bg-1:7.3.5.2-2.oe2203.riscv64
+ Problem 44: conflicting requests
+  - nothing provides mythes-ca needed by libreoffice-langpack-ca-1:7.3.5.2-2.oe2203.riscv64
+ Problem 45: conflicting requests
+  - nothing provides mythes-cs needed by libreoffice-langpack-cs-1:7.3.5.2-2.oe2203.riscv64
+ Problem 46: conflicting requests
+  - nothing provides mythes-da needed by libreoffice-langpack-da-1:7.3.5.2-2.oe2203.riscv64
+ Problem 47: conflicting requests
+  - nothing provides mythes-de needed by libreoffice-langpack-de-1:7.3.5.2-2.oe2203.riscv64
+ Problem 48: conflicting requests
+  - nothing provides mythes-el needed by libreoffice-langpack-el-1:7.3.5.2-2.oe2203.riscv64
+ Problem 49: conflicting requests
+  - nothing provides mythes-eo needed by libreoffice-langpack-eo-1:7.3.5.2-2.oe2203.riscv64
+ Problem 50: conflicting requests
+  - nothing provides mythes-es needed by libreoffice-langpack-es-1:7.3.5.2-2.oe2203.riscv64
+ Problem 51: conflicting requests
+  - nothing provides libreoffice-voikko needed by libreoffice-langpack-fi-1:7.3.5.2-2.oe2203.riscv64
+ Problem 52: conflicting requests
+  - nothing provides mythes-fr needed by libreoffice-langpack-fr-1:7.3.5.2-2.oe2203.riscv64
+ Problem 53: conflicting requests
+  - nothing provides mythes-ga needed by libreoffice-langpack-ga-1:7.3.5.2-2.oe2203.riscv64
+ Problem 54: conflicting requests
+  - nothing provides hunspell-hi needed by libreoffice-langpack-hi-1:7.3.5.2-2.oe2203.riscv64
+ Problem 55: conflicting requests
+  - nothing provides hyphen-hu needed by libreoffice-langpack-hu-1:7.3.5.2-2.oe2203.riscv64
+  - nothing provides mythes-hu needed by libreoffice-langpack-hu-1:7.3.5.2-2.oe2203.riscv64
+ Problem 56: conflicting requests
+  - nothing provides mythes-it needed by libreoffice-langpack-it-1:7.3.5.2-2.oe2203.riscv64
+ Problem 57: conflicting requests
+  - nothing provides mythes-nl needed by libreoffice-langpack-nl-1:7.3.5.2-2.oe2203.riscv64
+ Problem 58: conflicting requests
+  - nothing provides mythes-pl needed by libreoffice-langpack-pl-1:7.3.5.2-2.oe2203.riscv64
+ Problem 59: conflicting requests
+  - nothing provides mythes-pt needed by libreoffice-langpack-pt-BR-1:7.3.5.2-2.oe2203.riscv64
+ Problem 60: conflicting requests
+  - nothing provides mythes-pt needed by libreoffice-langpack-pt-PT-1:7.3.5.2-2.oe2203.riscv64
+ Problem 61: conflicting requests
+  - nothing provides mythes-ro needed by libreoffice-langpack-ro-1:7.3.5.2-2.oe2203.riscv64
+ Problem 62: conflicting requests
+  - nothing provides mythes-ru needed by libreoffice-langpack-ru-1:7.3.5.2-2.oe2203.riscv64
+ Problem 63: conflicting requests
+  - nothing provides hunspell-si needed by libreoffice-langpack-si-1:7.3.5.2-2.oe2203.riscv64
+ Problem 64: conflicting requests
+  - nothing provides mythes-sk needed by libreoffice-langpack-sk-1:7.3.5.2-2.oe2203.riscv64
+ Problem 65: conflicting requests
+  - nothing provides mythes-sl needed by libreoffice-langpack-sl-1:7.3.5.2-2.oe2203.riscv64
+ Problem 66: conflicting requests
+  - nothing provides mythes-sv needed by libreoffice-langpack-sv-1:7.3.5.2-2.oe2203.riscv64
+ Problem 67: conflicting requests
+  - nothing provides hunspell-ta needed by libreoffice-langpack-ta-1:7.3.5.2-2.oe2203.riscv64
+ Problem 68: conflicting requests
+  - nothing provides mythes-uk needed by libreoffice-langpack-uk-1:7.3.5.2-2.oe2203.riscv64
+ Problem 69: conflicting requests
+  - nothing provides hyphen-zu needed by libreoffice-langpack-zu-1:7.3.5.2-2.oe2203.riscv64
+ Problem 70: conflicting requests
+  - nothing provides python3-zypp-plugin needed by permissions-zypp-plugin-20220419.-33.1.oe2.noarch
+  - nothing provides libzypp(plugin:commit) = 1 needed by permissions-zypp-plugin-20220419.-33.1.oe2.noarch
+ Problem 71: cannot install the best candidate for the job
+  - nothing provides libperl.so.5.34()(64bit) needed by perf-5.10.0-7.oe2203.riscv64
+ Problem 72: cannot install the best candidate for the job
+  - nothing provides t1utils needed by texlive-collection-fontutils-8:svn37105.0-27.oe2203.noarch
+ Problem 73: cannot install the best candidate for the job
+  - nothing provides asymptote needed by texlive-collection-binextra-8:svn47945-27.oe2203.noarch
+  - nothing provides latexmk needed by texlive-collection-binextra-8:svn47945-27.oe2203.noarch
+ Problem 74: cannot install the best candidate for the job
+  - nothing provides libvirt-daemon-kvm needed by gnome-boxes-3.38.2-4.oe2203.riscv64
+ Problem 75: cannot install the best candidate for the job
+  - nothing provides xorg-x11-fonts-core needed by lirc-tools-gui-0.10.1-1.oe2203.riscv64
+ Problem 76: package permissions-20220419.-33.1.oe2.riscv64 requires permissions-config, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides group(trusted) needed by permissions-config-20220419-33.1.oe2.riscv64
+ Problem 77: package vdsm-hook-vmfex-dev-4.40.60.7-5.oe2203.noarch requires vdsm = 4.40.60.7-5.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+ Problem 78: package vdsm-hook-qemucmdline-4.40.60.7-5.oe2203.noarch requires vdsm, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+ Problem 79: package vdsm-hook-macbind-4.40.60.7-5.oe2203.noarch requires vdsm >= 4.14, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+ Problem 80: package vdsm-hook-localdisk-4.40.60.7-5.oe2203.noarch requires vdsm = 4.40.60.7, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+ Problem 81: package vdsm-hook-fcoe-4.40.60.7-5.oe2203.noarch requires vdsm = 4.40.60.7-5.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+ Problem 82: package vdsm-hook-faqemu-4.40.60.7-5.oe2203.noarch requires vdsm, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+ Problem 83: package vdsm-hook-fakevmstats-4.40.60.7-5.oe2203.noarch requires vdsm, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+ Problem 84: package vdsm-hook-extnet-4.40.60.7-5.oe2203.noarch requires vdsm = 4.40.60.7-5.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+ Problem 85: package vdsm-hook-ethtool-options-4.40.60.7-5.oe2203.noarch requires vdsm = 4.40.60.7-5.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+ Problem 86: package vdsm-hook-checkips-4.40.60.7-5.oe2203.riscv64 requires vdsm = 4.40.60.7-5.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+ Problem 87: package vdsm-hook-checkimages-4.40.60.7-5.oe2203.noarch requires vdsm, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+ Problem 88: package vdsm-hook-boot_hostdev-4.40.60.7-5.oe2203.noarch requires vdsm, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+ Problem 89: package vdsm-hook-allocate_net-4.40.60.7-5.oe2203.noarch requires vdsm, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+ Problem 90: package vdsm-gluster-4.40.60.7-5.oe2203.riscv64 requires vdsm = 4.40.60.7-5.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+ Problem 91: package ukui-desktop-environment-2.0.2-14.oe2203.noarch requires ukui = 2.0.2-14.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides ukui-settings-daemon needed by ukui-2.0.2-14.oe2203.noarch
+ Problem 92: package ovirt-engine-dwh-4.4.4.1-2.oe2203.noarch requires ovirt-engine-dwh-setup >= 4.4.4.1-2.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides ovirt-engine-setup-plugin-ovirt-engine-common >= 4.4.0 needed by ovirt-engine-dwh-setup-4.4.4.1-2.oe2203.noarch
+ Problem 93: package mosquitto-devel-1.6.15-6.oe2203.riscv64 requires mosquitto = 1.6.15-6.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libwebsockets.so.16()(64bit) needed by mosquitto-1.6.15-6.oe2203.riscv64
+ Problem 94: package kubeedge-keadm-1.8.0-3.oe2203.riscv64 requires mosquitto, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libwebsockets.so.16()(64bit) needed by mosquitto-1.6.15-6.oe2203.riscv64
+ Problem 95: package kubeedge-edgesite-1.8.0-3.oe2203.riscv64 requires mosquitto, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libwebsockets.so.16()(64bit) needed by mosquitto-1.6.15-6.oe2203.riscv64
+ Problem 96: package kubeedge-edgecore-1.8.0-3.oe2203.riscv64 requires mosquitto, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libwebsockets.so.16()(64bit) needed by mosquitto-1.6.15-6.oe2203.riscv64
+ Problem 97: package gnome-builder-devel-3.40.0-1.oe2203.riscv64 requires gnome-builder(riscv-64) = 3.40.0-1.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides devhelp-libs(riscv-64) >= 3.25.1 needed by gnome-builder-3.40.0-1.oe2203.riscv64
+ Problem 98: package aops-manager-v1.1.1-6.oe2203.riscv64 requires aops-utils = v1.1.1-6.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides python3-xmltodict needed by aops-utils-v1.1.1-6.oe2203.riscv64
+  - nothing provides python3.9dist(xmltodict) needed by aops-utils-v1.1.1-6.oe2203.riscv64
+ Problem 99: package aops-database-v1.1.1-6.oe2203.riscv64 requires aops-utils = v1.1.1-6.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides python3-xmltodict needed by aops-utils-v1.1.1-6.oe2203.riscv64
+  - nothing provides python3.9dist(xmltodict) needed by aops-utils-v1.1.1-6.oe2203.riscv64
+ Problem 100: package aops-cli-v1.1.1-6.oe2203.riscv64 requires aops-utils = v1.1.1-6.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides python3-xmltodict needed by aops-utils-v1.1.1-6.oe2203.riscv64
+  - nothing provides python3.9dist(xmltodict) needed by aops-utils-v1.1.1-6.oe2203.riscv64
+ Problem 101: package adoctor-diag-scheduler-v1.1.1-6.oe2203.riscv64 requires aops-utils = v1.1.1-6.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides python3-xmltodict needed by aops-utils-v1.1.1-6.oe2203.riscv64
+  - nothing provides python3.9dist(xmltodict) needed by aops-utils-v1.1.1-6.oe2203.riscv64
+ Problem 102: package adoctor-diag-executor-v1.1.1-6.oe2203.riscv64 requires aops-utils = v1.1.1-6.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides python3-xmltodict needed by aops-utils-v1.1.1-6.oe2203.riscv64
+  - nothing provides python3.9dist(xmltodict) needed by aops-utils-v1.1.1-6.oe2203.riscv64
+ Problem 103: package adoctor-cli-v1.1.1-6.oe2203.riscv64 requires aops-utils = v1.1.1-6.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides python3-xmltodict needed by aops-utils-v1.1.1-6.oe2203.riscv64
+  - nothing provides python3.9dist(xmltodict) needed by aops-utils-v1.1.1-6.oe2203.riscv64
+ Problem 104: package adoctor-check-scheduler-v1.1.1-6.oe2203.riscv64 requires aops-utils = v1.1.1-6.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides python3-xmltodict needed by aops-utils-v1.1.1-6.oe2203.riscv64
+  - nothing provides python3.9dist(xmltodict) needed by aops-utils-v1.1.1-6.oe2203.riscv64
+ Problem 105: package adoctor-check-executor-v1.1.1-6.oe2203.riscv64 requires aops-utils = v1.1.1-6.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides python3-xmltodict needed by aops-utils-v1.1.1-6.oe2203.riscv64
+  - nothing provides python3.9dist(xmltodict) needed by aops-utils-v1.1.1-6.oe2203.riscv64
+ Problem 106: package texlive-collection-mathscience-8:svn48252-27.oe2203.noarch requires texlive-includernw, but none of the providers can be installed
+  - cannot install the best candidate for the job
+  - nothing provides R-knitr needed by texlive-includernw-8:svn47557-24.oe2203.noarch
+ Problem 107: package texlive-collection-latexextra-8:svn48313-27.oe2203.noarch requires texlive-exceltex, but none of the providers can be installed
+  - cannot install the best candidate for the job
+  - nothing provides perl(Spreadsheet::ParseExcel) needed by texlive-exceltex-7:20180414-35.oe2203.noarch
+ Problem 108: package texlive-scheme-medium-8:svn44177-27.oe2203.noarch requires texlive-collection-fontutils, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides t1utils needed by texlive-collection-fontutils-8:svn37105.0-26.oe2203.noarch
+  - nothing provides t1utils needed by texlive-collection-fontutils-8:svn37105.0-27.oe2203.noarch
+ Problem 109: package texlive-scheme-gust-8:svn44177-27.oe2203.noarch requires texlive-collection-fontutils, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides t1utils needed by texlive-collection-fontutils-8:svn37105.0-26.oe2203.noarch
+  - nothing provides t1utils needed by texlive-collection-fontutils-8:svn37105.0-27.oe2203.noarch
+ Problem 110: package texlive-collection-bibtexextra-8:svn47839-27.oe2203.noarch requires texlive-biblatex-apa, but none of the providers can be installed
+  - cannot install the best candidate for the job
+  - nothing provides biber needed by texlive-biblatex-apa-8:svn47268-24.oe2203.noarch
+ Problem 111: package svnkit-javahl-1:1.8.12-1.oe2203.noarch requires mvn(org.tmatesoft.svnkit:svnkit) = 1.8.12, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides mvn(org.tmatesoft.sqljet:sqljet) needed by svnkit-1:1.8.12-1.oe2203.noarch
+ Problem 112: package svnkit-cli-1:1.8.12-1.oe2203.noarch requires mvn(org.tmatesoft.svnkit:svnkit) = 1.8.12, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides mvn(org.tmatesoft.sqljet:sqljet) needed by svnkit-1:1.8.12-1.oe2203.noarch
+ Problem 113: package ruby-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs.so.0()(64bit), but none of the providers can be installed
+  - package ruby-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+ Problem 114: package python3-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs.so.0()(64bit), but none of the providers can be installed
+  - package python3-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+ Problem 115: package php-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs.so.0()(64bit), but none of the providers can be installed
+  - package php-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+ Problem 116: package perl-Sys-Guestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs.so.0()(64bit), but none of the providers can be installed
+  - package perl-Sys-Guestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+ Problem 117: package ocaml-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs.so.0()(64bit), but none of the providers can be installed
+  - package ocaml-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+ Problem 118: package nbdkit-guestfs-plugin-1.29.11-1.oe2203.riscv64 requires libguestfs.so.0()(64bit), but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+ Problem 119: package lua-guestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs.so.0()(64bit), but none of the providers can be installed
+  - package lua-guestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+ Problem 120: package libguestfs-gobject-1:1.40.2-17.oe2203.riscv64 requires libguestfs.so.0()(64bit), but none of the providers can be installed
+  - package libguestfs-gobject-1:1.40.2-17.oe2203.riscv64 requires libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+ Problem 121: package libguestfs-devel-1:1.40.2-17.oe2203.riscv64 requires libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+ Problem 122: package mysql5-5.7.37-1.oe2203.riscv64 conflicts with mariadb provided by mariadb-4:10.5.15-2.oe2203.riscv64
+  - conflicting requests
+ Problem 123: package abrt-atomic-2.14.6-1.oe2203.riscv64 conflicts with abrt-addon-ccpp provided by abrt-addon-ccpp-2.14.6-1.oe2203.riscv64
+  - conflicting requests
+ Problem 124: package python3-abrt-container-addon-2.14.6-1.oe2203.riscv64 conflicts with python3-abrt-addon provided by python3-abrt-addon-2.14.6-1.oe2203.noarch
+  - conflicting requests
+ Problem 125: package podman-help-1:3.4.4-2.oe2203.riscv64 conflicts with docker provided by docker-engine-18.09.0-300.oe2203.riscv64
+  - conflicting requests
+ Problem 126: package mysql5-devel-5.7.37-1.oe2203.riscv64 conflicts with mariadb-devel provided by mariadb-devel-4:10.5.15-2.oe2203.riscv64
+  - conflicting requests
+ Problem 127: package mysql5-server-5.7.37-1.oe2203.riscv64 conflicts with mariadb-server provided by mariadb-server-4:10.5.15-2.oe2203.riscv64
+  - conflicting requests
+ Problem 128: package mariadb-test-4:10.5.15-2.oe2203.riscv64 conflicts with mysql-test provided by mysql5-test-5.7.37-1.oe2203.riscv64
+  - package mysql5-test-5.7.37-1.oe2203.riscv64 conflicts with mariadb-test provided by mariadb-test-4:10.5.15-2.oe2203.riscv64
+  - conflicting requests
+ Problem 129: package python3-pycryptodome-3.11.0-1.oe2203.riscv64 conflicts with python3-crypto <= 2.6.1 provided by python3-crypto-2.6.1-28.oe2203.riscv64
+  - conflicting requests
+ Problem 130: package libev-libevent-devel-4.33-2.oe2203.riscv64 conflicts with libevent-devel provided by libevent-devel-2.1.12-5.oe2203.riscv64
+  - conflicting requests
+ Problem 131: package mysql5-embedded-devel-5.7.37-1.oe2203.riscv64 conflicts with mariadb-embedded-devel provided by mariadb-embedded-devel-4:10.5.15-2.oe2203.riscv64
+  - conflicting requests
+ Problem 132: package libguestfs-gobject-devel-1:1.40.2-17.oe2203.riscv64 requires pkgconfig(libguestfs), but none of the providers can be installed
+  - package libguestfs-devel-1:1.40.2-17.oe2203.riscv64 requires libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+ Problem 133: package mariadb-backup-4:10.5.15-2.oe2203.riscv64 requires mariadb-server(riscv-64) = 4:10.5.15-2.oe2203, but none of the providers can be installed
+  - package mysql-server-8.0.28-2.oe2203.riscv64 conflicts with mariadb-server provided by mariadb-server-4:10.5.15-2.oe2203.riscv64
+  - conflicting requests
+ Problem 134: package ocaml-libguestfs-devel-1:1.40.2-17.oe2203.riscv64 requires ocaml-libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - package ocaml-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs.so.0()(64bit), but none of the providers can be installed
+  - package ocaml-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+ Problem 135: package podman-docker-1:3.4.4-2.oe2203.noarch conflicts with docker provided by docker-engine-18.09.0-300.oe2203.riscv64
+  - package isula-transform-0.9.1-3.oe2203.riscv64 requires docker, but none of the providers can be installed
+  - conflicting requests
+ Problem 136: package vdsm-hook-fileinject-4.40.60.7-5.oe2203.noarch requires python3-libguestfs, but none of the providers can be installed
+  - package python3-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs.so.0()(64bit), but none of the providers can be installed
+  - package python3-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+ Problem 137: installed package xz-lzma-compat-5.2.5-2.oe2203.riscv64 obsoletes lzma < 5.2.5 provided by lzma-4.32.7-22.oe2203.riscv64
+  - package lzma-devel-4.32.7-22.oe2203.riscv64 requires lzma = 4.32.7-22.oe2203, but none of the providers can be installed
+  - cannot install the best candidate for the job
+  - conflicting requests
+ Problem 138: cannot install both hwloc-2.2.0-1.oe2203.riscv64 and hwloc-1.11.9-5.oe2203.riscv64
+  - package openmpi-2.1.6-1.oe2203.riscv64 requires libhwloc.so.5()(64bit), but none of the providers can be installed
+  - cannot install the best candidate for the job
+  - conflicting requests
+ Problem 139: cannot install both rubygem-power_assert-1.2.0-122.oe2203.noarch and rubygem-power_assert-1.1.6-1.oe2203.noarch
+  - package rubygem-power_assert-doc-1.1.6-1.oe2203.noarch requires rubygem-power_assert = 1.1.6-1.oe2203, but none of the providers can be installed
+  - cannot install the best candidate for the job
+  - conflicting requests
+ Problem 140: cannot install both ceph-mgr-2:16.2.7-4.oe2203.riscv64 and ceph-mgr-2:14.2.15-6.oe2203.riscv64
+  - package ceph-mgr-diskprediction-cloud-2:14.2.15-6.oe2203.noarch requires ceph-mgr = 2:14.2.15-6.oe2203, but none of the providers can be installed
+  - cannot install the best candidate for the job
+  - conflicting requests
+ Problem 141: package mariadb-server-4:10.5.15-2.oe2203.riscv64 requires mariadb(riscv-64), but none of the providers can be installed
+  - package mariadb-gssapi-server-4:10.5.15-2.oe2203.riscv64 requires mariadb-server(riscv-64) = 4:10.5.15-2.oe2203, but none of the providers can be installed
+  - package mysql-8.0.28-2.oe2203.riscv64 conflicts with mariadb provided by mariadb-4:10.5.15-2.oe2203.riscv64
+  - conflicting requests
+ Problem 142: cannot install both hwloc-2.2.0-1.oe2203.riscv64 and hwloc-1.11.9-5.oe2203.riscv64
+  - package mpich-4.0.1-1.oe2203.riscv64 requires libhwloc.so.15()(64bit), but none of the providers can be installed
+  - package pmix-3.1.6-1.oe2203.riscv64 requires libhwloc.so.5()(64bit), but none of the providers can be installed
+  - cannot install the best candidate for the job
+  - conflicting requests
+ Problem 143: package mysql-server-8.0.28-2.oe2203.riscv64 conflicts with mariadb-server provided by mariadb-server-4:10.5.15-2.oe2203.riscv64
+  - package mariadb-oqgraph-engine-4:10.5.15-2.oe2203.riscv64 requires mariadb-server(riscv-64) = 4:10.5.15-2.oe2203, but none of the providers can be installed
+  - package mysql-test-8.0.28-2.oe2203.riscv64 requires mysql-server(riscv-64) = 8.0.28-2.oe2203, but none of the providers can be installed
+  - conflicting requests
+ Problem 144: package python3-pycryptodome-3.11.0-1.oe2203.riscv64 conflicts with python3-crypto <= 2.6.1 provided by python3-crypto-2.6.1-28.oe2203.riscv64
+  - package python3-keyczar-0.71c-15.oe2203.noarch requires python3.9dist(pycrypto) > 2, but none of the providers can be installed
+  - package python3-keyczar-0.71c-15.oe2203.noarch requires python3-crypto, but none of the providers can be installed
+  - package python3-dns-2.1.0-2.oe2203.noarch requires python3-pycryptodome, but none of the providers can be installed
+  - conflicting requests
+ Problem 145: package mysql-8.0.28-2.oe2203.riscv64 conflicts with mariadb provided by mariadb-4:10.5.15-2.oe2203.riscv64
+  - package mariadb-server-4:10.5.15-2.oe2203.riscv64 requires mariadb(riscv-64), but none of the providers can be installed
+  - package mysql-help-8.0.28-2.oe2203.riscv64 requires mysql = 8.0.28-2.oe2203, but none of the providers can be installed
+  - package mariadb-pam-4:10.5.15-2.oe2203.riscv64 requires mariadb-server(riscv-64) = 4:10.5.15-2.oe2203, but none of the providers can be installed
+  - conflicting requests
+ Problem 146: cannot install both hwloc-2.2.0-1.oe2203.riscv64 and hwloc-1.11.9-5.oe2203.riscv64
+  - package hwloc-devel-2.2.0-1.oe2203.riscv64 requires hwloc = 2.2.0-1.oe2203, but none of the providers can be installed
+  - package openmpi-devel-2.1.6-1.oe2203.riscv64 requires libhwloc.so.5()(64bit), but none of the providers can be installed
+  - cannot install the best candidate for the job
+  - conflicting requests
+ Problem 147: package mpich-4.0.1-1.oe2203.riscv64 requires libhwloc.so.15()(64bit), but none of the providers can be installed
+  - cannot install both hwloc-2.2.0-1.oe2203.riscv64 and hwloc-1.11.9-5.oe2203.riscv64
+  - package mpich-autoload-4.0.1-1.oe2203.riscv64 requires mpich = 4.0.1-1.oe2203, but none of the providers can be installed
+  - package pmix-pmi-3.1.6-1.oe2203.riscv64 requires libhwloc.so.5()(64bit), but none of the providers can be installed
+  - cannot install the best candidate for the job
+  - conflicting requests
+ Problem 148: package mpich-4.0.1-1.oe2203.riscv64 requires libhwloc.so.15()(64bit), but none of the providers can be installed
+  - cannot install both hwloc-2.2.0-1.oe2203.riscv64 and hwloc-1.11.9-5.oe2203.riscv64
+  - package mpich-devel-4.0.1-1.oe2203.riscv64 requires mpich = 4.0.1-1.oe2203, but none of the providers can be installed
+  - package pmix-tools-3.1.6-1.oe2203.riscv64 requires libhwloc.so.5()(64bit), but none of the providers can be installed
+  - cannot install the best candidate for the job
+  - conflicting requests
+ Problem 149: package mpich-4.0.1-1.oe2203.riscv64 requires libhwloc.so.15()(64bit), but none of the providers can be installed
+  - cannot install both hwloc-2.2.0-1.oe2203.riscv64 and hwloc-1.11.9-5.oe2203.riscv64
+  - package mpich-devel-4.0.1-1.oe2203.riscv64 requires mpich = 4.0.1-1.oe2203, but none of the providers can be installed
+  - package openmpi-2.1.6-1.oe2203.riscv64 requires libhwloc.so.5()(64bit), but none of the providers can be installed
+  - package mpich-help-4.0.1-1.oe2203.noarch requires mpich-devel = 4.0.1-1.oe2203, but none of the providers can be installed
+  - package hdf5-openmpi-1.8.20-14.oe2203.riscv64 requires libmpi.so.20()(64bit), but none of the providers can be installed
+  - cannot install the best candidate for the job
+  - conflicting requests

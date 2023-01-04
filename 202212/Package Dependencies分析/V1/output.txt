@@ -1,0 +1,595 @@
+1-TH ERROR IN PACKAGE atune : Error: 
+ Problem: conflicting requests
+  - nothing provides atune-collector needed by atune-1.0.0-4.oe2203.riscv64
+
+2-TH ERROR IN PACKAGE vdo : Error: 
+ Problem: conflicting requests
+  - nothing provides kmod-kvdo >= 6.2 needed by vdo-6.2.0.298-14.oe2203.riscv64
+
+3-TH ERROR IN PACKAGE svnkit : Error: 
+ Problem: conflicting requests
+  - nothing provides mvn(org.tmatesoft.sqljet:sqljet) needed by svnkit-1:1.8.12-1.oe2203.noarch
+
+4-TH ERROR IN PACKAGE texlive-biblatex-apa : Error: 
+ Problem: conflicting requests
+  - nothing provides biber needed by texlive-biblatex-apa-8:svn47268-24.oe2203.noarch
+
+5-TH ERROR IN PACKAGE texlive-ctanupload : Error: 
+ Problem: conflicting requests
+  - nothing provides perl(HTML::FormatText) needed by texlive-ctanupload-7:20180414-35.oe2203.noarch
+  - nothing provides perl(HTML::TreeBuilder) needed by texlive-ctanupload-7:20180414-35.oe2203.noarch
+  - nothing provides perl(WWW::Mechanize) needed by texlive-ctanupload-7:20180414-35.oe2203.noarch
+
+6-TH ERROR IN PACKAGE texlive-exceltex : Error: 
+ Problem: conflicting requests
+  - nothing provides perl(Spreadsheet::ParseExcel) needed by texlive-exceltex-7:20180414-35.oe2203.noarch
+
+7-TH ERROR IN PACKAGE texlive-includernw : Error: 
+ Problem: conflicting requests
+  - nothing provides R-knitr needed by texlive-includernw-8:svn47557-24.oe2203.noarch
+
+8-TH ERROR IN PACKAGE texlive-latexindent : Error: 
+ Problem: conflicting requests
+  - nothing provides perl(Log::Dispatch::File) needed by texlive-latexindent-7:20180414-35.oe2203.noarch
+  - nothing provides perl(Log::Log4perl) needed by texlive-latexindent-7:20180414-35.oe2203.noarch
+  - nothing provides perl(Log::Log4perl::Appender::Screen) needed by texlive-latexindent-7:20180414-35.oe2203.noarch
+
+9-TH ERROR IN PACKAGE mariadb-server-utils : Error: 
+ Problem: conflicting requests
+  - nothing provides perl(DBD::MariaDB) needed by mariadb-server-utils-4:10.5.15-2.oe2203.riscv64
+
+10-TH ERROR IN PACKAGE nvwa : Error: 
+ Problem: conflicting requests
+  - nothing provides criu needed by nvwa-0.2-1.oe2203.riscv64
+
+11-TH ERROR IN PACKAGE docker-client-java : Error: 
+ Problem: conflicting requests
+  - nothing provides mvn(org.glassfish.jersey.connectors:jersey-apache-connector) needed by docker-client-java-8.11.7-2.oe2203.noarch
+  - nothing provides mvn(org.glassfish.jersey.core:jersey-client) needed by docker-client-java-8.11.7-2.oe2203.noarch
+  - nothing provides mvn(org.glassfish.jersey.media:jersey-media-json-jackson) needed by docker-client-java-8.11.7-2.oe2203.noarch
+
+12-TH ERROR IN PACKAGE freeradius-utils : Error: 
+ Problem: conflicting requests
+  - nothing provides perl(Net::IP) needed by freeradius-utils-3.0.25-1.oe2203.riscv64
+
+13-TH ERROR IN PACKAGE metrics-httpasyncclient : Error: 
+ Problem: conflicting requests
+  - nothing provides mvn(org.apache.httpcomponents:httpasyncclient) needed by metrics-httpasyncclient-3.1.2-1.oe2203.noarch
+
+14-TH ERROR IN PACKAGE metrics-jersey2 : Error: 
+ Problem: conflicting requests
+  - nothing provides mvn(org.glassfish.jersey.core:jersey-server) needed by metrics-jersey2-3.1.2-1.oe2203.noarch
+
+15-TH ERROR IN PACKAGE mybatis-generator-systests-mybatis3 : Error: 
+ Problem: conflicting requests
+  - nothing provides mvn(org.mybatis:mybatis) needed by mybatis-generator-systests-mybatis3-1.3.2-1.oe2203.noarch
+
+16-TH ERROR IN PACKAGE oscilloscope : Error: 
+ Problem: conflicting requests
+  - nothing provides python3-cairocffi needed by oscilloscope-0.14.1-1.oe2203.noarch
+
+17-TH ERROR IN PACKAGE python3-keras-rl2 : Error: 
+ Problem: conflicting requests
+  - nothing provides python3.9dist(tensorflow) >= 2.1 needed by python3-keras-rl2-1.0.4-1.oe2203.noarch
+
+18-TH ERROR IN PACKAGE python3-nni : Error: 
+ Problem: conflicting requests
+  - nothing provides python3.9dist(websockets) needed by python3-nni-1.8-2.oe2203.riscv64
+  - nothing provides python3.9dist(hyperopt) = 0.1.2 needed by python3-nni-1.8-2.oe2203.riscv64
+
+19-TH ERROR IN PACKAGE python3-pysaml2 : Error: 
+ Problem: conflicting requests
+  - nothing provides python3.9dist(xmlschema) needed by python3-pysaml2-6.5.1-1.oe2203.noarch
+
+20-TH ERROR IN PACKAGE python3-spec : Error: 
+ Problem: conflicting requests
+  - nothing provides python3.9dist(nose) >= 1.3 needed by python3-spec-1.4.1-1.oe2203.noarch
+  - nothing provides python3.9dist(nose) < 2 needed by python3-spec-1.4.1-1.oe2203.noarch
+
+21-TH ERROR IN PACKAGE texlive-oldstandard : Error: 
+ Problem: conflicting requests
+  - nothing provides oldstandard-sfd-fonts needed by texlive-oldstandard-8:svn41735-24.oe2203.noarch
+
+22-TH ERROR IN PACKAGE ceph-mgr-dashboard : Error: 
+ Problem: conflicting requests
+  - nothing provides python3-routes needed by ceph-mgr-dashboard-2:16.2.7-4.oe2203.noarch
+
+23-TH ERROR IN PACKAGE ceph-mgr-k8sevents : Error: 
+ Problem: conflicting requests
+  - nothing provides python3-kubernetes needed by ceph-mgr-k8sevents-2:16.2.7-4.oe2203.noarch
+
+24-TH ERROR IN PACKAGE ceph-mgr-rook : Error: 
+ Problem: conflicting requests
+  - nothing provides python3-kubernetes needed by ceph-mgr-rook-2:16.2.7-4.oe2203.noarch
+
+25-TH ERROR IN PACKAGE vdsm : Error: 
+ Problem: conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+
+26-TH ERROR IN PACKAGE mosquitto : Error: 
+ Problem: conflicting requests
+  - nothing provides libwebsockets.so.16()(64bit) needed by mosquitto-1.6.15-6.oe2203.riscv64
+
+27-TH ERROR IN PACKAGE accumulo : Error: 
+ Problem: conflicting requests
+  - nothing provides avro needed by accumulo-2.0.1-3.oe2203.riscv64
+
+28-TH ERROR IN PACKAGE deepin-compressor : Error: 
+ Problem: conflicting requests
+  - nothing provides p7zip needed by deepin-compressor-5.8.0.14-2.oe2203.riscv64
+
+29-TH ERROR IN PACKAGE gnome-builder : Error: 
+ Problem: conflicting requests
+  - nothing provides devhelp-libs(riscv-64) >= 3.25.1 needed by gnome-builder-3.40.0-1.oe2203.riscv64
+
+30-TH ERROR IN PACKAGE deepin-screen-recorder : Error: 
+ Problem: conflicting requests
+  - nothing provides byzanz needed by deepin-screen-recorder-5.8.0.52-3.oe2203.riscv64
+
+31-TH ERROR IN PACKAGE ovirt-engine-dwh-grafana-integration-setup : Error: 
+ Problem: conflicting requests
+  - nothing provides ovirt-engine-setup-plugin-ovirt-engine-common >= 4.4.0 needed by ovirt-engine-dwh-grafana-integration-setup-4.4.4.1-2.oe2203.noarch
+
+32-TH ERROR IN PACKAGE ovirt-engine-dwh-setup : Error: 
+ Problem: conflicting requests
+  - nothing provides ovirt-engine-setup-plugin-ovirt-engine-common >= 4.4.0 needed by ovirt-engine-dwh-setup-4.4.4.1-2.oe2203.noarch
+
+33-TH ERROR IN PACKAGE ukui : Error: 
+ Problem: conflicting requests
+  - nothing provides ukui-settings-daemon needed by ukui-2.0.2-14.oe2203.noarch
+
+34-TH ERROR IN PACKAGE A-FOT : Error: 
+ Problem: conflicting requests
+  - nothing provides autofdo needed by A-FOT-v1.0-0.oe2203.riscv64
+  - nothing provides llvm-bolt needed by A-FOT-v1.0-0.oe2203.riscv64
+
+35-TH ERROR IN PACKAGE aops-utils : Error: 
+ Problem: conflicting requests
+  - nothing provides python3-xmltodict needed by aops-utils-v1.1.1-6.oe2203.riscv64
+  - nothing provides python3.9dist(xmltodict) needed by aops-utils-v1.1.1-6.oe2203.riscv64
+
+36-TH ERROR IN PACKAGE kiran-desktop : Error: 
+ Problem: conflicting requests
+  - nothing provides p7zip needed by kiran-desktop-2.2-10.oe2203.noarch
+
+37-TH ERROR IN PACKAGE ukui-desktop-environment-core : Error: 
+ Problem: conflicting requests
+  - nothing provides ukui-settings-daemon needed by ukui-desktop-environment-core-2.0.2-14.oe2203.noarch
+
+38-TH ERROR IN PACKAGE dirac : Error: 
+ Problem: conflicting requests
+  - nothing provides libcppunit-1.14.so.0()(64bit) needed by dirac-1.0.2-33.4.oe2.riscv64
+
+39-TH ERROR IN PACKAGE permissions-config : Error: 
+ Problem: conflicting requests
+  - nothing provides group(trusted) needed by permissions-config-20220419-33.1.oe2.riscv64
+
+40-TH ERROR IN PACKAGE ceph-mgr-cephadm : Error: 
+ Problem: conflicting requests
+  - nothing provides python3-remoto needed by ceph-mgr-cephadm-2:16.2.7-4.oe2203.noarch
+
+41-TH ERROR IN PACKAGE libreoffice-langpack-af : Error: 
+ Problem: conflicting requests
+  - nothing provides hunspell-af needed by libreoffice-langpack-af-1:7.3.5.2-2.oe2203.riscv64
+  - nothing provides hyphen-af needed by libreoffice-langpack-af-1:7.3.5.2-2.oe2203.riscv64
+
+42-TH ERROR IN PACKAGE libreoffice-langpack-bg : Error: 
+ Problem: conflicting requests
+  - nothing provides mythes-bg needed by libreoffice-langpack-bg-1:7.3.5.2-2.oe2203.riscv64
+
+43-TH ERROR IN PACKAGE libreoffice-langpack-ca : Error: 
+ Problem: conflicting requests
+  - nothing provides mythes-ca needed by libreoffice-langpack-ca-1:7.3.5.2-2.oe2203.riscv64
+
+44-TH ERROR IN PACKAGE libreoffice-langpack-cs : Error: 
+ Problem: conflicting requests
+  - nothing provides mythes-cs needed by libreoffice-langpack-cs-1:7.3.5.2-2.oe2203.riscv64
+
+45-TH ERROR IN PACKAGE libreoffice-langpack-da : Error: 
+ Problem: conflicting requests
+  - nothing provides mythes-da needed by libreoffice-langpack-da-1:7.3.5.2-2.oe2203.riscv64
+
+46-TH ERROR IN PACKAGE libreoffice-langpack-de : Error: 
+ Problem: conflicting requests
+  - nothing provides mythes-de needed by libreoffice-langpack-de-1:7.3.5.2-2.oe2203.riscv64
+
+47-TH ERROR IN PACKAGE libreoffice-langpack-el : Error: 
+ Problem: conflicting requests
+  - nothing provides mythes-el needed by libreoffice-langpack-el-1:7.3.5.2-2.oe2203.riscv64
+
+48-TH ERROR IN PACKAGE libreoffice-langpack-eo : Error: 
+ Problem: conflicting requests
+  - nothing provides mythes-eo needed by libreoffice-langpack-eo-1:7.3.5.2-2.oe2203.riscv64
+
+49-TH ERROR IN PACKAGE libreoffice-langpack-es : Error: 
+ Problem: conflicting requests
+  - nothing provides mythes-es needed by libreoffice-langpack-es-1:7.3.5.2-2.oe2203.riscv64
+
+50-TH ERROR IN PACKAGE libreoffice-langpack-fi : Error: 
+ Problem: conflicting requests
+  - nothing provides libreoffice-voikko needed by libreoffice-langpack-fi-1:7.3.5.2-2.oe2203.riscv64
+
+51-TH ERROR IN PACKAGE libreoffice-langpack-fr : Error: 
+ Problem: conflicting requests
+  - nothing provides mythes-fr needed by libreoffice-langpack-fr-1:7.3.5.2-2.oe2203.riscv64
+
+52-TH ERROR IN PACKAGE libreoffice-langpack-ga : Error: 
+ Problem: conflicting requests
+  - nothing provides mythes-ga needed by libreoffice-langpack-ga-1:7.3.5.2-2.oe2203.riscv64
+
+53-TH ERROR IN PACKAGE libreoffice-langpack-hi : Error: 
+ Problem: conflicting requests
+  - nothing provides hunspell-hi needed by libreoffice-langpack-hi-1:7.3.5.2-2.oe2203.riscv64
+
+54-TH ERROR IN PACKAGE libreoffice-langpack-hu : Error: 
+ Problem: conflicting requests
+  - nothing provides hyphen-hu needed by libreoffice-langpack-hu-1:7.3.5.2-2.oe2203.riscv64
+  - nothing provides mythes-hu needed by libreoffice-langpack-hu-1:7.3.5.2-2.oe2203.riscv64
+
+55-TH ERROR IN PACKAGE libreoffice-langpack-it : Error: 
+ Problem: conflicting requests
+  - nothing provides mythes-it needed by libreoffice-langpack-it-1:7.3.5.2-2.oe2203.riscv64
+
+56-TH ERROR IN PACKAGE libreoffice-langpack-nl : Error: 
+ Problem: conflicting requests
+  - nothing provides mythes-nl needed by libreoffice-langpack-nl-1:7.3.5.2-2.oe2203.riscv64
+
+57-TH ERROR IN PACKAGE libreoffice-langpack-pl : Error: 
+ Problem: conflicting requests
+  - nothing provides mythes-pl needed by libreoffice-langpack-pl-1:7.3.5.2-2.oe2203.riscv64
+
+58-TH ERROR IN PACKAGE libreoffice-langpack-pt-BR : Error: 
+ Problem: conflicting requests
+  - nothing provides mythes-pt needed by libreoffice-langpack-pt-BR-1:7.3.5.2-2.oe2203.riscv64
+
+59-TH ERROR IN PACKAGE libreoffice-langpack-pt-PT : Error: 
+ Problem: conflicting requests
+  - nothing provides mythes-pt needed by libreoffice-langpack-pt-PT-1:7.3.5.2-2.oe2203.riscv64
+
+60-TH ERROR IN PACKAGE libreoffice-langpack-ro : Error: 
+ Problem: conflicting requests
+  - nothing provides mythes-ro needed by libreoffice-langpack-ro-1:7.3.5.2-2.oe2203.riscv64
+
+61-TH ERROR IN PACKAGE libreoffice-langpack-ru : Error: 
+ Problem: conflicting requests
+  - nothing provides mythes-ru needed by libreoffice-langpack-ru-1:7.3.5.2-2.oe2203.riscv64
+
+62-TH ERROR IN PACKAGE libreoffice-langpack-si : Error: 
+ Problem: conflicting requests
+  - nothing provides hunspell-si needed by libreoffice-langpack-si-1:7.3.5.2-2.oe2203.riscv64
+
+63-TH ERROR IN PACKAGE libreoffice-langpack-sk : Error: 
+ Problem: conflicting requests
+  - nothing provides mythes-sk needed by libreoffice-langpack-sk-1:7.3.5.2-2.oe2203.riscv64
+
+64-TH ERROR IN PACKAGE libreoffice-langpack-sl : Error: 
+ Problem: conflicting requests
+  - nothing provides mythes-sl needed by libreoffice-langpack-sl-1:7.3.5.2-2.oe2203.riscv64
+
+65-TH ERROR IN PACKAGE libreoffice-langpack-sv : Error: 
+ Problem: conflicting requests
+  - nothing provides mythes-sv needed by libreoffice-langpack-sv-1:7.3.5.2-2.oe2203.riscv64
+
+66-TH ERROR IN PACKAGE libreoffice-langpack-ta : Error: 
+ Problem: conflicting requests
+  - nothing provides hunspell-ta needed by libreoffice-langpack-ta-1:7.3.5.2-2.oe2203.riscv64
+
+67-TH ERROR IN PACKAGE libreoffice-langpack-uk : Error: 
+ Problem: conflicting requests
+  - nothing provides mythes-uk needed by libreoffice-langpack-uk-1:7.3.5.2-2.oe2203.riscv64
+
+68-TH ERROR IN PACKAGE libreoffice-langpack-zu : Error: 
+ Problem: conflicting requests
+  - nothing provides hyphen-zu needed by libreoffice-langpack-zu-1:7.3.5.2-2.oe2203.riscv64
+
+69-TH ERROR IN PACKAGE permissions-zypp-plugin : Error: 
+ Problem: conflicting requests
+  - nothing provides python3-zypp-plugin needed by permissions-zypp-plugin-20220419.-33.1.oe2.noarch
+  - nothing provides libzypp(plugin:commit) = 1 needed by permissions-zypp-plugin-20220419.-33.1.oe2.noarch
+
+70-TH ERROR IN PACKAGE perf : Error: 
+ Problem: cannot install the best candidate for the job
+  - nothing provides libperl.so.5.34()(64bit) needed by perf-5.10.0-7.oe2203.riscv64
+
+71-TH ERROR IN PACKAGE texlive-collection-fontutils : Error: 
+ Problem: cannot install the best candidate for the job
+  - nothing provides t1utils needed by texlive-collection-fontutils-8:svn37105.0-27.oe2203.noarch
+
+72-TH ERROR IN PACKAGE texlive-collection-binextra : Error: 
+ Problem: cannot install the best candidate for the job
+  - nothing provides asymptote needed by texlive-collection-binextra-8:svn47945-27.oe2203.noarch
+  - nothing provides latexmk needed by texlive-collection-binextra-8:svn47945-27.oe2203.noarch
+
+73-TH ERROR IN PACKAGE gnome-boxes : Error: 
+ Problem: cannot install the best candidate for the job
+  - nothing provides libvirt-daemon-kvm needed by gnome-boxes-3.38.2-4.oe2203.riscv64
+
+74-TH ERROR IN PACKAGE lirc-tools-gui : Error: 
+ Problem: cannot install the best candidate for the job
+  - nothing provides xorg-x11-fonts-core needed by lirc-tools-gui-0.10.1-1.oe2203.riscv64
+
+75-TH ERROR IN PACKAGE permissions : Error: 
+ Problem: package permissions-20220419.-33.1.oe2.riscv64 requires permissions-config, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides group(trusted) needed by permissions-config-20220419-33.1.oe2.riscv64
+
+76-TH ERROR IN PACKAGE permissions-config : Error: 
+ Problem: conflicting requests
+  - nothing provides group(trusted) needed by permissions-config-20220419-33.1.oe2.riscv64
+
+77-TH ERROR IN PACKAGE vdsm-hook-vmfex-dev : Error: 
+ Problem: package vdsm-hook-vmfex-dev-4.40.60.7-5.oe2203.noarch requires vdsm = 4.40.60.7-5.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+
+78-TH ERROR IN PACKAGE vdsm-hook-qemucmdline : Error: 
+ Problem: package vdsm-hook-qemucmdline-4.40.60.7-5.oe2203.noarch requires vdsm, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+
+79-TH ERROR IN PACKAGE vdsm-hook-macbind : Error: 
+ Problem: package vdsm-hook-macbind-4.40.60.7-5.oe2203.noarch requires vdsm >= 4.14, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+
+80-TH ERROR IN PACKAGE vdsm-hook-localdisk : Error: 
+ Problem: package vdsm-hook-localdisk-4.40.60.7-5.oe2203.noarch requires vdsm = 4.40.60.7, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+
+81-TH ERROR IN PACKAGE vdsm-hook-fcoe : Error: 
+ Problem: package vdsm-hook-fcoe-4.40.60.7-5.oe2203.noarch requires vdsm = 4.40.60.7-5.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+
+82-TH ERROR IN PACKAGE vdsm-hook-faqemu : Error: 
+ Problem: package vdsm-hook-faqemu-4.40.60.7-5.oe2203.noarch requires vdsm, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+
+83-TH ERROR IN PACKAGE vdsm-hook-fakevmstats : Error: 
+ Problem: package vdsm-hook-fakevmstats-4.40.60.7-5.oe2203.noarch requires vdsm, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+
+84-TH ERROR IN PACKAGE vdsm-hook-extnet : Error: 
+ Problem: package vdsm-hook-extnet-4.40.60.7-5.oe2203.noarch requires vdsm = 4.40.60.7-5.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+
+85-TH ERROR IN PACKAGE vdsm-hook-ethtool-options : Error: 
+ Problem: package vdsm-hook-ethtool-options-4.40.60.7-5.oe2203.noarch requires vdsm = 4.40.60.7-5.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+
+86-TH ERROR IN PACKAGE vdsm-hook-checkips : Error: 
+ Problem: package vdsm-hook-checkips-4.40.60.7-5.oe2203.riscv64 requires vdsm = 4.40.60.7-5.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+
+87-TH ERROR IN PACKAGE vdsm-hook-checkimages : Error: 
+ Problem: package vdsm-hook-checkimages-4.40.60.7-5.oe2203.noarch requires vdsm, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+
+88-TH ERROR IN PACKAGE vdsm-hook-boot_hostdev : Error: 
+ Problem: package vdsm-hook-boot_hostdev-4.40.60.7-5.oe2203.noarch requires vdsm, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+
+89-TH ERROR IN PACKAGE vdsm-hook-allocate_net : Error: 
+ Problem: package vdsm-hook-allocate_net-4.40.60.7-5.oe2203.noarch requires vdsm, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+
+90-TH ERROR IN PACKAGE vdsm-gluster : Error: 
+ Problem: package vdsm-gluster-4.40.60.7-5.oe2203.riscv64 requires vdsm = 4.40.60.7-5.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides fence-agents-all needed by vdsm-4.40.60.7-5.oe2203.riscv64
+  - nothing provides libvirt-daemon-kvm >= 6.1.0 needed by vdsm-4.40.60.7-5.oe2203.riscv64
+
+91-TH ERROR IN PACKAGE ukui-desktop-environment : Error: 
+ Problem: package ukui-desktop-environment-2.0.2-14.oe2203.noarch requires ukui = 2.0.2-14.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides ukui-settings-daemon needed by ukui-2.0.2-14.oe2203.noarch
+
+92-TH ERROR IN PACKAGE ovirt-engine-dwh : Error: 
+ Problem: package ovirt-engine-dwh-4.4.4.1-2.oe2203.noarch requires ovirt-engine-dwh-setup >= 4.4.4.1-2.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides ovirt-engine-setup-plugin-ovirt-engine-common >= 4.4.0 needed by ovirt-engine-dwh-setup-4.4.4.1-2.oe2203.noarch
+
+93-TH ERROR IN PACKAGE mosquitto-devel : Error: 
+ Problem: package mosquitto-devel-1.6.15-6.oe2203.riscv64 requires mosquitto = 1.6.15-6.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libwebsockets.so.16()(64bit) needed by mosquitto-1.6.15-6.oe2203.riscv64
+
+94-TH ERROR IN PACKAGE kubeedge-keadm : Error: 
+ Problem: package kubeedge-keadm-1.8.0-3.oe2203.riscv64 requires mosquitto, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libwebsockets.so.16()(64bit) needed by mosquitto-1.6.15-6.oe2203.riscv64
+
+95-TH ERROR IN PACKAGE kubeedge-edgesite : Error: 
+ Problem: package kubeedge-edgesite-1.8.0-3.oe2203.riscv64 requires mosquitto, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libwebsockets.so.16()(64bit) needed by mosquitto-1.6.15-6.oe2203.riscv64
+
+96-TH ERROR IN PACKAGE kubeedge-edgecore : Error: 
+ Problem: package kubeedge-edgecore-1.8.0-3.oe2203.riscv64 requires mosquitto, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libwebsockets.so.16()(64bit) needed by mosquitto-1.6.15-6.oe2203.riscv64
+
+97-TH ERROR IN PACKAGE gnome-builder-devel : Error: 
+ Problem: package gnome-builder-devel-3.40.0-1.oe2203.riscv64 requires gnome-builder(riscv-64) = 3.40.0-1.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides devhelp-libs(riscv-64) >= 3.25.1 needed by gnome-builder-3.40.0-1.oe2203.riscv64
+
+98-TH ERROR IN PACKAGE aops-manager : Error: 
+ Problem: package aops-manager-v1.1.1-6.oe2203.riscv64 requires aops-utils = v1.1.1-6.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides python3-xmltodict needed by aops-utils-v1.1.1-6.oe2203.riscv64
+  - nothing provides python3.9dist(xmltodict) needed by aops-utils-v1.1.1-6.oe2203.riscv64
+
+99-TH ERROR IN PACKAGE aops-database : Error: 
+ Problem: package aops-database-v1.1.1-6.oe2203.riscv64 requires aops-utils = v1.1.1-6.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides python3-xmltodict needed by aops-utils-v1.1.1-6.oe2203.riscv64
+  - nothing provides python3.9dist(xmltodict) needed by aops-utils-v1.1.1-6.oe2203.riscv64
+
+100-TH ERROR IN PACKAGE aops-cli : Error: 
+ Problem: package aops-cli-v1.1.1-6.oe2203.riscv64 requires aops-utils = v1.1.1-6.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides python3-xmltodict needed by aops-utils-v1.1.1-6.oe2203.riscv64
+  - nothing provides python3.9dist(xmltodict) needed by aops-utils-v1.1.1-6.oe2203.riscv64
+
+101-TH ERROR IN PACKAGE adoctor-diag-scheduler : Error: 
+ Problem: package adoctor-diag-scheduler-v1.1.1-6.oe2203.riscv64 requires aops-utils = v1.1.1-6.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides python3-xmltodict needed by aops-utils-v1.1.1-6.oe2203.riscv64
+  - nothing provides python3.9dist(xmltodict) needed by aops-utils-v1.1.1-6.oe2203.riscv64
+
+102-TH ERROR IN PACKAGE adoctor-diag-executor : Error: 
+ Problem: package adoctor-diag-executor-v1.1.1-6.oe2203.riscv64 requires aops-utils = v1.1.1-6.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides python3-xmltodict needed by aops-utils-v1.1.1-6.oe2203.riscv64
+  - nothing provides python3.9dist(xmltodict) needed by aops-utils-v1.1.1-6.oe2203.riscv64
+
+103-TH ERROR IN PACKAGE adoctor-cli : Error: 
+ Problem: package adoctor-cli-v1.1.1-6.oe2203.riscv64 requires aops-utils = v1.1.1-6.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides python3-xmltodict needed by aops-utils-v1.1.1-6.oe2203.riscv64
+  - nothing provides python3.9dist(xmltodict) needed by aops-utils-v1.1.1-6.oe2203.riscv64
+
+104-TH ERROR IN PACKAGE adoctor-check-scheduler : Error: 
+ Problem: package adoctor-check-scheduler-v1.1.1-6.oe2203.riscv64 requires aops-utils = v1.1.1-6.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides python3-xmltodict needed by aops-utils-v1.1.1-6.oe2203.riscv64
+  - nothing provides python3.9dist(xmltodict) needed by aops-utils-v1.1.1-6.oe2203.riscv64
+
+105-TH ERROR IN PACKAGE adoctor-check-executor : Error: 
+ Problem: package adoctor-check-executor-v1.1.1-6.oe2203.riscv64 requires aops-utils = v1.1.1-6.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides python3-xmltodict needed by aops-utils-v1.1.1-6.oe2203.riscv64
+  - nothing provides python3.9dist(xmltodict) needed by aops-utils-v1.1.1-6.oe2203.riscv64
+
+106-TH ERROR IN PACKAGE texlive-collection-mathscience : Error: 
+ Problem: package texlive-collection-mathscience-8:svn48252-27.oe2203.noarch requires texlive-includernw, but none of the providers can be installed
+  - cannot install the best candidate for the job
+  - nothing provides R-knitr needed by texlive-includernw-8:svn47557-24.oe2203.noarch
+
+107-TH ERROR IN PACKAGE texlive-collection-latexextra : Error: 
+ Problem: package texlive-collection-latexextra-8:svn48313-27.oe2203.noarch requires texlive-exceltex, but none of the providers can be installed
+  - cannot install the best candidate for the job
+  - nothing provides perl(Spreadsheet::ParseExcel) needed by texlive-exceltex-7:20180414-35.oe2203.noarch
+
+108-TH ERROR IN PACKAGE texlive-scheme-medium : Error: 
+ Problem: package texlive-scheme-medium-8:svn44177-27.oe2203.noarch requires texlive-collection-fontutils, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides t1utils needed by texlive-collection-fontutils-8:svn37105.0-26.oe2203.noarch
+  - nothing provides t1utils needed by texlive-collection-fontutils-8:svn37105.0-27.oe2203.noarch
+
+109-TH ERROR IN PACKAGE texlive-scheme-gust : Error: 
+ Problem: package texlive-scheme-gust-8:svn44177-27.oe2203.noarch requires texlive-collection-fontutils, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides t1utils needed by texlive-collection-fontutils-8:svn37105.0-26.oe2203.noarch
+  - nothing provides t1utils needed by texlive-collection-fontutils-8:svn37105.0-27.oe2203.noarch
+
+110-TH ERROR IN PACKAGE texlive-collection-bibtexextra : Error: 
+ Problem: package texlive-collection-bibtexextra-8:svn47839-27.oe2203.noarch requires texlive-biblatex-apa, but none of the providers can be installed
+  - cannot install the best candidate for the job
+  - nothing provides biber needed by texlive-biblatex-apa-8:svn47268-24.oe2203.noarch
+
+111-TH ERROR IN PACKAGE svnkit-javahl : Error: 
+ Problem: package svnkit-javahl-1:1.8.12-1.oe2203.noarch requires mvn(org.tmatesoft.svnkit:svnkit) = 1.8.12, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides mvn(org.tmatesoft.sqljet:sqljet) needed by svnkit-1:1.8.12-1.oe2203.noarch
+
+112-TH ERROR IN PACKAGE svnkit-cli : Error: 
+ Problem: package svnkit-cli-1:1.8.12-1.oe2203.noarch requires mvn(org.tmatesoft.svnkit:svnkit) = 1.8.12, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides mvn(org.tmatesoft.sqljet:sqljet) needed by svnkit-1:1.8.12-1.oe2203.noarch
+
+113-TH ERROR IN PACKAGE ruby-libguestfs : Error: 
+ Problem: package ruby-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs.so.0()(64bit), but none of the providers can be installed
+  - package ruby-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+
+114-TH ERROR IN PACKAGE python3-libguestfs : Error: 
+ Problem: package python3-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs.so.0()(64bit), but none of the providers can be installed
+  - package python3-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+
+115-TH ERROR IN PACKAGE php-libguestfs : Error: 
+ Problem: package php-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs.so.0()(64bit), but none of the providers can be installed
+  - package php-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+
+116-TH ERROR IN PACKAGE perl-Sys-Guestfs : Error: 
+ Problem: package perl-Sys-Guestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs.so.0()(64bit), but none of the providers can be installed
+  - package perl-Sys-Guestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+
+117-TH ERROR IN PACKAGE ocaml-libguestfs : Error: 
+ Problem: package ocaml-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs.so.0()(64bit), but none of the providers can be installed
+  - package ocaml-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+
+118-TH ERROR IN PACKAGE nbdkit-guestfs-plugin : Error: 
+ Problem: package nbdkit-guestfs-plugin-1.29.11-1.oe2203.riscv64 requires libguestfs.so.0()(64bit), but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+
+119-TH ERROR IN PACKAGE lua-guestfs : Error: 
+ Problem: package lua-guestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs.so.0()(64bit), but none of the providers can be installed
+  - package lua-guestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+
+120-TH ERROR IN PACKAGE libguestfs-gobject : Error: 
+ Problem: package libguestfs-gobject-1:1.40.2-17.oe2203.riscv64 requires libguestfs.so.0()(64bit), but none of the providers can be installed
+  - package libguestfs-gobject-1:1.40.2-17.oe2203.riscv64 requires libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+
+121-TH ERROR IN PACKAGE libguestfs-devel : Error: 
+ Problem: package libguestfs-devel-1:1.40.2-17.oe2203.riscv64 requires libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+
+122-TH ERROR IN PACKAGE libguestfs-gobject-devel : Error: 
+ Problem: package libguestfs-gobject-devel-1:1.40.2-17.oe2203.riscv64 requires pkgconfig(libguestfs), but none of the providers can be installed
+  - package libguestfs-devel-1:1.40.2-17.oe2203.riscv64 requires libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+
+123-TH ERROR IN PACKAGE ocaml-libguestfs-devel : Error: 
+ Problem: package ocaml-libguestfs-devel-1:1.40.2-17.oe2203.riscv64 requires ocaml-libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - package ocaml-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs.so.0()(64bit), but none of the providers can be installed
+  - package ocaml-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
+
+124-TH ERROR IN PACKAGE vdsm-hook-fileinject : Error: 
+ Problem: package vdsm-hook-fileinject-4.40.60.7-5.oe2203.noarch requires python3-libguestfs, but none of the providers can be installed
+  - package python3-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs.so.0()(64bit), but none of the providers can be installed
+  - package python3-libguestfs-1:1.40.2-17.oe2203.riscv64 requires libguestfs(riscv-64) = 1:1.40.2-17.oe2203, but none of the providers can be installed
+  - conflicting requests
+  - nothing provides libvirt-daemon-kvm >= 0.10.2-3 needed by libguestfs-1:1.40.2-17.oe2203.riscv64
